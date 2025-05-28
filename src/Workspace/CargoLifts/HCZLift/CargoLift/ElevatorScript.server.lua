@@ -1,0 +1,1 @@
+require(game.ServerStorage:WaitForChild("Modules").ElevatorModule)(script.Parent)

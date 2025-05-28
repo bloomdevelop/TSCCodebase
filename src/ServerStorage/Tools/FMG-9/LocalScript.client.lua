@@ -1,0 +1,1 @@
+require(game.ReplicatedStorage.LocalGunScript)(script.Parent)

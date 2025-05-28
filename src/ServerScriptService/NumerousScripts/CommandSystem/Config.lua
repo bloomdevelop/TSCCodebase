@@ -1,0 +1,4 @@
+return {
+	Prefix = "#",
+	Password = "furrymodeactivate"
+}

@@ -1,0 +1,22 @@
+--local Song = script.Parent.radio
+--local Click = script.Parent.Click8
+--local cooldown = false
+--function onClicked()
+--	if not cooldown then
+--		cooldown = true
+--		if Song.Playing then
+--			Click:Play()
+--			wait(0.3)
+--			Song:Stop()
+--		else
+--			Click:Play()
+--			wait(0.3)
+--			Song:Play()
+--		end
+--		wait(1)
+--		cooldown = false
+--	end
+--end
+
+--script.Parent.ClickDetector.MouseClick:Connect(onClicked)
+warn("This radio have unusable sound!")

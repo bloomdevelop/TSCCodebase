@@ -1,0 +1,8 @@
+local TS = game:GetService("TweenService")
+local info = TweenInfo.new(5,Enum.EasingStyle.Linear,Enum.EasingDirection.Out,0,false,0)
+local t = TS:Create(script.Parent.Mesh,info,{Transparency = 1})
+wait(8)
+t:Play()
+t.Completed:Wait()
+wait(0.1)
+script.Parent:Destroy()

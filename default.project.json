@@ -1,0 +1,36 @@
+{
+  "name": "TscLuauPort",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedFirst": {
+      "$path": "src/ReplicatedFirst"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerStorage"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts"
+        }
+      },
+      "StarterCharacterScripts": {
+        "Character": {
+          "$path": "src/StarterPlayer/StarterCharacterScripts"
+        }
+      }
+    },
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+    "Chat": {
+      "$path": "src/Chat"
+    },
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    "Workspace": {
+      "$path": "src/Workspace"
+    }
+  }
+}

@@ -1,8 +1,14 @@
 # TscLuauPort
 
-A luau port from TSC Leak on January 18, 2023 (Might be inaccurate due how I saved on the zip file)
+A luau port from TSC Leak on January 18, 2023 (Might be inaccurate due how I saved on the zip file). 
+
+### Stats
 
 There's more than 2,450 files (including "Workspace" and `.meta.json`).
+
+## Note
+
+This project is intended for educational purpose, if you want to publish with this code, I recommend you to change the name and the code to avoid serious issues with developers.
 
 ---
 
